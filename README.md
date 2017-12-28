@@ -4,6 +4,6 @@ clone repo
 <br>
 cd to directory
 <br>
-javac Main.java
+javac *.java
 <br>
 java Main
