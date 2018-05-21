@@ -1,9 +1,8 @@
 To play
-<br>
-clone repo
-<br>
-cd to directory
-<br>
+```
 javac Main.java
-<br>
 java Main
+```
+![](https://github.com/GarrettBeatty/Asteroids/raw/master/splash.png)
+![](https://github.com/GarrettBeatty/Asteroids/raw/master/screenshot.png)
+
