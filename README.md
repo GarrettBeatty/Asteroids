@@ -1,6 +1,6 @@
 To play
 ```
-javac Main.java
+javac *.java
 java Main
 ```
 ![](https://github.com/GarrettBeatty/Asteroids/raw/master/splash.png)
